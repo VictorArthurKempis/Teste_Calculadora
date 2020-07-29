@@ -118,11 +118,29 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="textBox1.Text" xml:space="preserve">
-    <value>V 0.2
+    <value>EXEMPLOS DE OPERAÇÃO
+Somar 5 e 3
+Pressione:  5 + 3 = 
+
+Calcular 20% de 300
+Pressione:  2 0 % 3 0 0 =
+
+Salvar 35 na memória
+Pressione:  3 5 MS
+
+Apagar a tela
+Pressione:  C
+
+Recuperar o número salvo na memória
+Pressione:  MR
+
+==SOBRE AS VERSÕES ANTERIORES==
+
+V 0.2
 Acrescentada a funcionalidade de porcentagem.
 
 V 0.1.1
-Corrigidos os bugs referentes à tela em branco, divisão por zero.
+Corrigidos os bugs referentes à tela em branco e divisão por zero.
 
 V 0.1
 Calculadora com as 4 operações básicas, capacidade de armazenamento de uma variável (MS) e botão de limpar a tela e as variáveis.</value>
